@@ -1,6 +1,7 @@
 :root{
     --color-primario: #337BA2;
     --color-2: #a23733;
+    --color-3: #a27d33;
 }
 
 body {
@@ -61,5 +62,9 @@ pre code {
 
 span.color-2 {
     color: var(--color-2);
+}
+
+span.color-3 {
+    color: var(--color-3);
 }
 
